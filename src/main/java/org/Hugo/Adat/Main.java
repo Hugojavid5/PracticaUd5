@@ -110,7 +110,7 @@ public class Main {
         //cargarDatos(f, db);
         System.out.println("1:\tListado de deportistas participantes:");
         System.out.println("2:\tModificar medalla deportista:");
-        System.out.println("3:\tAñadir deportista/participación::");
+        System.out.println("3:\tAñadir deportista o participación::");
         System.out.println("4:\tEliminar participación:");
         System.out.println("0:\tSALIR:");
         int respuesta=input.nextInt();
